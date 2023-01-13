@@ -71,6 +71,10 @@ body {
   justify-content: space-between;
 }
 
+.task-info {
+  margin: 15px 0px;
+}
+
 .add-form {
   margin-bottom: 40px;
 }
